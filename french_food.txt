@@ -1,0 +1,18 @@
+la nourriture,food
+avoir faim,to be hungry
+manger,to eat
+le repas,meal
+le plat principal,main course
+la confiture,jam
+le croissant,croissant
+la farine,flour
+les frites,French fries
+l'huile d'olive,olive oil
+la mayonnaise,mayonnaise
+la moutarde,mustard
+le pain,bread
+les pates,pasta
+le poivre,pepper
+le riz,rice
+le sel,salt
+le sucre,sugar

@@ -1,0 +1,56 @@
+bateau,boat
+million,million
+sac,bag
+impossible,impossible
+seconde,second
+erreur,error
+soleil,sun
+voyage,trip
+sauter,to jump
+faux,wrong
+balle,ball 
+maintenir,to keep
+cheveu,a hair
+papier,paper
+blanc,white
+dix,ten
+agent,officer
+approcher,to approach
+six,six
+message,message
+crier,to shout
+inviter,to invite
+camp,camp
+sorte,sort
+souffrir,suffer
+jambe,leg
+remercier,to thank
+choix,choice
+avocat,lawyer
+attraper,to catch
+client,customer
+courant,current
+peuple,people
+or,gold
+gosse,kid
+fric,cash
+situation,situation
+sauf,except
+accident,accident
+doute,doubt
+soldat,soldier
+amoureux,loving
+preuve,proof
+humain,human
+mer,sea
+silence,silence
+victime,victim
+pute,whore
+garde,guard
+meurtre,murder
+groupe,group
+crime,crime
+traiter,to deal
+doucement,softly
+blesser,hurt
+colonel,colonel
